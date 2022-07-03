@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
             val randomNumberRight = btnRight.text.toString().toInt()
             if (randomNumberLeft > randomNumberRight)
                 backgroundView.setBackgroundColor(Color.GREEN)
-            //Show a Toast
+            //Show a Toast toast
             else {
                 backgroundView.setBackgroundColor(Color.RED)
             }
