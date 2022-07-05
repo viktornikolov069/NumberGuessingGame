@@ -25,7 +25,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/viktornikolov069/Tippy/TippyGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/viktornikolov069/NumberGuessingGame/blob/main/num_guessing_game.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
