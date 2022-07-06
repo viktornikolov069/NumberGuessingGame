@@ -2,7 +2,7 @@
 
 ## *Viktor Nikolov*
 
-**Number Guessing Game** prompts the user to select which of the two numbers presented is larger. The background color changes if the button pressed contains a number lesser than the other.
+**Number Guessing Game** prompts the user to select which of the two numbers presented is larger. The background color changes depending on the button pressed.
 
 ## Functionality
 
